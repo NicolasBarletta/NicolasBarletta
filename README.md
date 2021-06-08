@@ -11,7 +11,6 @@
 
 [Linkedin](https://www.linkedin.com/in/nicolas-barletta-568616202/) 👈
 [Instagram](https://www.instagram.com/nicolasbarletta/) 👈
-[Facebook](https://www.facebook.com/nicolas.barletta.50/) 👈
 [Whats](https://api.whatsapp.com/send?phone=5511991371771) 👈
 
 ## Minhas Estatísticas e Linguages 👨‍💻
