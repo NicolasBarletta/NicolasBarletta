@@ -4,7 +4,7 @@
     <li>Autodidata e apaixonado por programação</li>
     <li>Estudando diariamente para melhorar cada vez mais minhas habilidades</li>
     <li>Aberto para novas propostas de trabalho</li>
-    <li>Cursando ADS na Universidade Mogi das Cruzes</li>
+    <li>Cursando Ciência da Computação na UNICID</li>
 </ul>
 
 ## Minhas redes! 🌐
